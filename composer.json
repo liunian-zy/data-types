@@ -1,19 +1,19 @@
 {
-  "name": "comely-io/data-types",
+  "name": "liunian/data-types",
   "description": "PHP data types",
   "type": "library",
-  "homepage": "https://github.com/comely-io/data-types",
+  "homepage": "https://github.com/liunian-zy/data-types",
   "license": "MIT",
   "authors": [
     {
-      "name": "Furqan A. Siddiqui",
-      "email": "hello@furqansiddiqui.com",
-      "homepage": "https://www.furqansiddiqui.com",
+      "name": "liunian",
+      "email": "a@liunian.io",
+      "homepage": "https://www.liunian.io",
       "role": "Author"
     }
   ],
   "require": {
-    "php": "^7.2",
+    "php": "^8.2",
     "ext-bcmath": "*",
     "ext-mbstring": "*"
   },
